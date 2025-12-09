@@ -6,7 +6,7 @@ with open('sequences.0.txt', 'rt') as hert:
 
     for line in hert:
         line = line.strip()
-        if not line:  # Пропускаем пустые строки
+        if not line:   
             continue
 
 
