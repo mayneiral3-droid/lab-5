@@ -89,5 +89,5 @@ def main():
     process_diff_queries()
 
 
-if __name__ == "__main__":
+ 
     main()
